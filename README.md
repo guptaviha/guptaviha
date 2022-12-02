@@ -4,7 +4,7 @@
 
 <div align='center'>
 
-<img alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" border="2">
 
 </div>
 
@@ -14,16 +14,18 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </h1>
 
+
+
+<div align='center'>
+
 <!-- Biline -->
-<p align="center">
+<p>
     A Computer Science Graduate student at New York University
 </p>
 
-<p align="center">
+<p>
     with a passion for Full Stack Web Development and ML
 </p>
-
-<div align='center'>
 
 <!-- Views Counter -->
 ![Viha's Profile Views](https://komarev.com/ghpvc/?username=guptaviha)
@@ -41,12 +43,16 @@
     <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />
 </a>
 
-</div>
-
 <br>
 
 <!-- Stats -->
 ![Viha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptaviha&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
+
+</div>
+
+
+
+
 
 
 
